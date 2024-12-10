@@ -104,7 +104,8 @@ The dataset includes:
 - **Power BI**: For data visualization and dashboard creation.
 
 ---
-##👤 About Me
-Hi, I'm Moideen Siyad! This project reflects my skills in data visualization and analysis, particularly in customer retention strategies.
+## 👤 About Me
+
+Hi, I'm **Moideen Siyad**! This project reflects my skills in data visualization and analysis, particularly in customer retention strategies.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moideen-siyad-a44649235/)
 
